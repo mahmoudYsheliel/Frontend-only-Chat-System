@@ -1,6 +1,8 @@
 
 #  Vue Chat Application
 
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/006dcf12-04ea-4ba4-9803-208c1310e44b" />
+
 A simple, responsive **chat UI** built with **Vue 3 + TypeScript**.  
 It supports:
 - Responsive design (chat list + chat body toggle on mobile)  
