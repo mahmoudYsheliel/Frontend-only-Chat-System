@@ -32,24 +32,6 @@ It supports:
 
 ---
 
-## 📂 Project Structure
-src/
-├─ components/
-│ ├─ user-list/
-│ │ ├─ UserList.vue # Shows list of users
-│ │ └─ UserCard.vue # Displays a single user card
-│ ├─ chat-body/
-│ │ └─ ChatBody.vue # Shows messages for the active chat
-│ └─ link-preview/
-│ └─ LinkPreview.vue # Generates a preview for shared links
-│
-├─ utils/
-│ ├─ eventBus.ts # Event bus for component communication
-│ ├─ sessionStorageManager.ts # Manages session storage data
-│ └─ models.ts # TypeScript interfaces for User, Message, etc.
-│
-├─ App.vue # Main app container
-└─ main.ts # Vue app entry point
 
 ## Project Setup
 
